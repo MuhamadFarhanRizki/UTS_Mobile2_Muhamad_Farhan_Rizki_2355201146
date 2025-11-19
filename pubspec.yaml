@@ -1,0 +1,25 @@
+name: profile_app
+description: Single page profile app for UTS Mobile Programming 2
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.17.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_fonts: ^5.0.0
+  font_awesome_flutter: ^10.4.0
+  flutter_bloc: ^8.1.2   # ← ditambahkan untuk Cubit/Bloc
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/profile.jpeg
+    - assets/images/header_bg.jpeg
