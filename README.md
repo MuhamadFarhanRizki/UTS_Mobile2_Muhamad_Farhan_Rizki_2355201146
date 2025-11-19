@@ -1,7 +1,11 @@
 🎓 UTS Mobile Programming 2 
+
 Nama : Muhamad Farhan Rizki
+
 Nim  : 23552011416
+
 kelas: TIFK-23A
+
 Dosen Pengampu : Erryck Norrys, S.Kom.
 
 Profile Single App 
