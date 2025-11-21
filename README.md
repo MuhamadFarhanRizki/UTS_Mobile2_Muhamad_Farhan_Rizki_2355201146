@@ -213,23 +213,28 @@ assets/images/header_bg.jpeg
 
 📂 Struktur Folder
 
+assets/
+└── images/
+    ├── profile.jpeg
+    └── header_bg.jpeg
+    
 lib/
 │
-├── main.dart
 ├── cubit/
 │   └── theme_cubit.dart
+│
 ├── models/
 │   └── profile.dart
+│
 ├── pages/
 │   └── profile_page.dart
+│
 ├── widgets/
 │   ├── info_card.dart
 │   ├── hobby_item.dart
 │   └── skill_item.dart
-└── assets/
-    └── images/
-        ├── profile.jpeg
-        └── header_bg.jpeg
+│
+└── main.dart   ← Entry point aplikasi
 
  Hasil Run Project
 
